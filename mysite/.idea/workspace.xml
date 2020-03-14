@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../PRUEBA.JS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../holamundo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +19,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1Z0Pj3AMmTnPLF7CD4TIEOl549I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -60,14 +67,30 @@
       <workItem from="1583973173278" duration="3019000" />
       <workItem from="1583983060030" duration="6035000" />
       <workItem from="1584021090188" duration="19972000" />
-      <workItem from="1584206874510" duration="64000" />
+      <workItem from="1584206874510" duration="1171000" />
     </task>
+    <task id="LOCAL-00001" summary="se agrego una nueva funcion">
+      <created>1584206994570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584206994570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="se agrego una nueva funcion" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agrego una nueva funcion" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="558" y="91" width="865" height="923" key="CommitChangelistDialog2" timestamp="1584206993882">
+      <screen x="71" y="27" width="1849" height="1053" />
+    </state>
+    <state x="558" y="91" width="865" height="923" key="CommitChangelistDialog2/71.27.1849.1053@71.27.1849.1053" timestamp="1584206993882" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583983056571">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
