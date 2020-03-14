@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="" />
+    <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PRUEBA.JS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holamundo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/app1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app1/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Z0Pj3AMmTnPLF7CD4TIEOl549I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -52,6 +60,7 @@
       <workItem from="1583973173278" duration="3019000" />
       <workItem from="1583983060030" duration="6035000" />
       <workItem from="1584021090188" duration="19972000" />
+      <workItem from="1584206874510" duration="64000" />
     </task>
     <servers />
   </component>

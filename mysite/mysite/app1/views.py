@@ -44,6 +44,7 @@ def perfil(request):
     })
 
 
+
 def logout(request):
     django_logout(request)
     domain = 'dev-bmi8oyu1.auth0.com'
@@ -55,3 +56,6 @@ def getUsers(request):
     #usuarios=User.Objects.getall()
     users = User.objects.all()
     return render(request,'perfil_usuarios.html',{'usuarios':users})
+
+def getUser(request,id):
+        return  render(request,'usuario.html')
