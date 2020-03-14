@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +64,7 @@
       <workItem from="1583983060030" duration="6035000" />
       <workItem from="1584021090188" duration="19972000" />
       <workItem from="1584206874510" duration="1871000" />
-      <workItem from="1584209151662" duration="274000" />
+      <workItem from="1584209151662" duration="429000" />
     </task>
     <task id="LOCAL-00001" summary="se agrego una nueva funcion">
       <created>1584206994570</created>
